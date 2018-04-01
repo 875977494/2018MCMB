@@ -5,7 +5,7 @@ load('second.mat');
 load('shyl.mat');
 
 cc =  a;
-iterations = 100;
+iterations = 1;
 ab = shyl;
 n = 0.0001;  %????
 %L = 2;

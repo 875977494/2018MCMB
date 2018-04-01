@@ -2,7 +2,7 @@
 load('data.mat');
 load('qianrulv.mat');
 cc =  a;
-iterations = 1000;
+iterations = 1;
 
 n = 0.0001;
 %L = 2;
